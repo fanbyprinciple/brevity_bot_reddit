@@ -4,6 +4,8 @@ Accompanying code for medium article at : https://medium.com/@fanbyprinciple/cre
 
 Huge thanks to https://new.pythonforengineers.com/blog/build-a-reddit-bot-part-1/
 
+![](creating_reddit_token.gif)
+
 ### Simple find and reply
 
 check `brevity_bot.py`
